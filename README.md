@@ -1,6 +1,8 @@
 # Python CRUD - Sistema de gerenciamento de livros
 
-Este projeto é uma API CRUD (Create, Read, Update, Delete) simples desenvolvida em Python, projetada para ser executada em um ambiente Docker.
+Este projeto é uma API CRUD (Create, Read, Update, Delete) simples desenvolvida em Python, projetada para ser executada em um ambiente Docker. A aplicação simula um sistema de gerenciamento de livros e permite que o usuário cadastre, atualize, exclua e visualize os livros registrados.
+
+![Frontend](assets/frontend.png)
 
 ## Estrutura do projeto
 - **Banco de Dados**: Utilizado o [PostgreSQL](https://hub.docker.com/_/postgres), com a imagem oficial do Docker, como nosso sistema de gerenciamento de banco de dados relacional.
